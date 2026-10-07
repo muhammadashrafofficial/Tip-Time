@@ -31,6 +31,3 @@ Through this project, I practiced:
 - Performing calculations using Kotlin.
 - Updating UI elements dynamically.
 - Understanding the basic Android project structure.
-
-```bash
-git clone https://github.com/muhammadashrafofficial/Tip-Time.git
